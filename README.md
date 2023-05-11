@@ -1,6 +1,6 @@
 # [camp2022-shininggamer] For the king(clone) project
 <div align="center">
-  <img src="https://github.com/Shining-Gamer/camp2022-shininggamer/assets/81684148/86754d39-fad7-401d-9478-e0d483dea3e3.png" width="300">
+  <img src="https://github.com/songsuyoung/shininggamerWinterDev/assets/81684148/c7cf9697-3844-4895-baba-4c7ccc5d0b82.png" width="300">
 </div>
 
 ##  프로젝트 설명
@@ -21,7 +21,7 @@ Winter Dev Camp에서 진행한 개발로, 3명의 클라이언트 개발자와 
 이승현 : 서버 개발자_포톤 클라우드를 이용한 네트워크 관리
 
 ## 아키텍처
-<img src="https://github.com/Shining-Gamer/camp2022-shininggamer/assets/81684148/95c532af-2ec4-44db-a2cc-c4e4b28dea6e.png" width="700">
+<img src="https://github.com/songsuyoung/shininggamerWinterDev/assets/81684148/a1be955c-2845-4587-8ae1-b8f657e2b13e" width="700">
 
 ## 프로젝트 소개
  'ForTheKing'을 모방 목표로 한 게임 프로젝트.
